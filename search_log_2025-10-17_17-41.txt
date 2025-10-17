@@ -1,0 +1,85 @@
+=== LOG DE RECHERCHE - 2025-10-17 17:40:31 ===
+
+🔍 RECHERCHE: shutdown budget fédéral désaccord budgétaire
+   Événement: Shutdown aux États-Unis en raison d'un désaccord budgétaire
+   Catégorie: politique
+   ✅ TROUVÉ: www.tenforums.com - Shut Down Computer in Windows 10 | Tutorials - Ten...
+   ✅ TROUVÉ: jingyan.baidu.com - Windows 10系统中shutdown的几个应用方法 - 百度经验...
+   ✅ TROUVÉ: jingyan.baidu.com - Windows 11 如何定时关闭电脑 - 百度经验...
+   📊 RÉSULTAT: 3 articles trouvés
+   📰 ARTICLES UTILISÉS: 3 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: marchés boursiers Wall-Street indices européens
+   Événement: Hausse des marchés boursiers malgré le shutdown
+   Catégorie: marches
+   ✅ TROUVÉ: www.zonebourse.com - Principaux indices boursiers en Europe | Zonebours...
+   ✅ TROUVÉ: www.lesechos.fr - Bourse : pourquoi les marchés européens restent à ...
+   ✅ TROUVÉ: fr.tradingview.com - Indices boursiers européens - FTSE 100, DAX — Trad...
+   📊 RÉSULTAT: 3 articles trouvés
+   📰 ARTICLES UTILISÉS: 3 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: baisse des taux Fed politique monétaire
+   Événement: Baisse imminente des taux d'intérêt par la Fed
+   Catégorie: macro
+   ✅ TROUVÉ: dictionnaire.lerobert.com - baisse - Définitions, synonymes, prononciation, ex...
+   ✅ TROUVÉ: www.larousse.fr - Définitions : baisse - Dictionnaire de français La...
+   ✅ TROUVÉ: www.lalanguefrancaise.com - Définition de baisse | Dictionnaire français - La ...
+   📊 RÉSULTAT: 3 articles trouvés
+   📰 ARTICLES UTILISÉS: 3 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: saison des résultats entreprises cotées rapports financiers
+   Événement: Saison des résultats trimestriels approche
+   Catégorie: entreprises
+   📊 RÉSULTAT: 0 articles trouvés
+   📰 ARTICLES UTILISÉS: 0 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: accord Pfizer Maison Blanche industrie pharmaceutique
+   Événement: Accord entre la Maison Blanche et Pfizer salué par l'industrie pharmaceutique
+   Catégorie: entreprises
+   📊 RÉSULTAT: 0 articles trouvés
+   📰 ARTICLES UTILISÉS: 0 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: droits de douane acier Commission européenne importations acier
+   Événement: Augmentation des droits de douane sur l'acier par la Commission européenne
+   Catégorie: macro
+   ✅ TROUVÉ: www.easyfichiers.com - Fichier des exploitations agricoles – Agriculteurs...
+   ✅ TROUVÉ: www.producteurs.fr - Annuaire de producteurs partout en France....
+   ✅ TROUVÉ: www.mon-producteur.com - Mon-Producteur.com revient bientôt...
+   📊 RÉSULTAT: 3 articles trouvés
+   📰 ARTICLES UTILISÉS: 3 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: prix de l'or marché de l'or incertitude économique
+   Événement: Hausse du prix de l'or en raison de l'incertitude économique
+   Catégorie: matieres_premieres
+   📊 RÉSULTAT: 0 articles trouvés
+   📰 ARTICLES UTILISÉS: 0 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: prix du pétrole Brent OPEP+
+   Événement: Baisse des prix du pétrole brut
+   Catégorie: matieres_premieres
+   📊 RÉSULTAT: 0 articles trouvés
+   📰 ARTICLES UTILISÉS: 0 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: marché du travail enquête ADP emploi
+   Événement: Ralentissement du marché du travail aux États-Unis
+   Catégorie: macro
+   ✅ TROUVÉ: www.jours-de-marche.fr - Les jours de marché en France, producteurs locaux ...
+   ✅ TROUVÉ: www.jours-de-marche.fr - Département 34 : Hérault - Jours-de-Marché.fr...
+   ✅ TROUVÉ: www.jours-de-marche.fr - Jours de marché à Frontignan - Jours-de-Marché.fr...
+   📊 RÉSULTAT: 3 articles trouvés
+   📰 ARTICLES UTILISÉS: 3 articles seront utilisés par l'IA
+
+🔍 RECHERCHE: bitcoin cryptomonnaies BlackRock
+   Événement: Hausse du bitcoin et des cryptomonnaies
+   Catégorie: marches
+   ✅ TROUVÉ: www.blackrock.com - Découvrez le bitcoin avec iShares | iShares - Blac...
+   ✅ TROUVÉ: cryptoast.fr - BlackRock fait entrer le Bitcoin dans ses portefeu...
+   ✅ TROUVÉ: www.lesechos.fr - BlackRock, l'ogre qui engloutit le marché du bitco...
+   📊 RÉSULTAT: 3 articles trouvés
+   📰 ARTICLES UTILISÉS: 3 articles seront utilisés par l'IA
+
+
+=== RÉSUMÉ FINAL ===
+Total événements recherchés: 10
+Total articles trouvés: 18
+Taux de réussite: 180.0% si tous les événements avaient des termes de recherche
